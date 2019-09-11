@@ -52,7 +52,6 @@ On passing the tests, you can now run the app in a local server by running the f
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/book/static_pages) is available jointly under the MIT License and the Beerware License. See [LICENSE.md](https://github.com/tundeiness/sample-app/blob/development/LICENSE.md) for details.
-Things you may want to cover:
 
 
 
